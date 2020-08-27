@@ -16,7 +16,7 @@ Repository: https://github.com/dbreznay/README-Generator
 * [Questions](#questions)
 
 ## Application Screenshot
-[Photo](https://user-images.githubusercontent.com/60904436/91372142-7af43b80-e7d8-11ea-8ce9-5c87b782a4fa.png)
+(https://user-images.githubusercontent.com/60904436/91372142-7af43b80-e7d8-11ea-8ce9-5c87b782a4fa.png)
 
 
 ## Installation
